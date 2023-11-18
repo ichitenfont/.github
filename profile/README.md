@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > :white_check_mark:**延續漢字傳統之美，需要您的參與！[請點擊本連結](https://github.com/ichitenfont/FuturePlans/discussions/6)，共襄盛擧！**:paintbrush:
 
-[![image](https://github.com/ichitenfont/.github/assets/24702034/75d513f7-a647-451e-b94c-7699578b73d3)](https://github.com/ichitenfont/FuturePlans/discussions/6)
+[![一點源黑製作計劃招募中](https://github.com/ichitenfont/.github/assets/24702034/75d513f7-a647-451e-b94c-7699578b73d3)](https://github.com/ichitenfont/FuturePlans/discussions/6)
 <!--
 
 **Here are some ideas to get you started:**
